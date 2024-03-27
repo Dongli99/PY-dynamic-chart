@@ -18,8 +18,11 @@ The Dynamic Chart Widget is a Python GUI application built using Tkinter that di
 
 **Sister projects:**
 
-- [VoiceDataGenerator](https://github.com/Dongli99/PY-voice-data-generator): Simulating voice data with customizable parameters such as pitch, duration, and noise.
-- [Gauge](https://github.com/Dongli99/PY-gui-gauge): A customizable graphical representation of a gauge
+- [VoiceDataGenerator](https://github.com/Dongli99/PY-voice-data-generator)  <image src="img/voice.png" style="width:15%">  
+  - Simulating voice data with customizable parameters such as pitch, duration, and noise.
+
+- [Gauge](https://github.com/Dongli99/PY-gui-gauge)  <image src="img/gauge.png" style="width:5%">
+  - A customizable graphical representation of a gauge.  
 
 ## Features
 
